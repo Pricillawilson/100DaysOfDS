@@ -14,5 +14,9 @@ basics of pandas
 read_csv
 #Day 6
 built-in
+#Day 7
+StringIO
+#Day 8
+index_col
 
 
