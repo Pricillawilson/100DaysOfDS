@@ -18,5 +18,7 @@ built-in
 StringIO
 #Day 8
 index_col
+#Day 9
+read_json
 
 
